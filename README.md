@@ -54,6 +54,9 @@ Hi there! I'm *Sri vamsi*, a passionate developer who loves creating, learning, 
   <a href="srivamsirlg840@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://www.hackerrank.com/profile/srivamsirlg840">
+    <img style="background-color:#2c3e50" width="94" height="28" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" atlt="hackerrank">
+  </a>
 </div>
 
 ---
